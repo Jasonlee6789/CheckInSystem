@@ -4,7 +4,7 @@ namespace edx_Inheritance
     class BusinessEmployee : Employee
     {
         // I need to create the constructor for our BusinessEmployee() Class that sets the base salary to 50000. To do so, use the base keyword again and type the following code:
-        public BusinessEmployee(string name, double baseSalary) : base(name, 50000)
+        public BusinessEmployee(string name) : base(name, 50000)
         {
             // Sets baseSalary to 50000 for all BusinessEmployee objects
         }

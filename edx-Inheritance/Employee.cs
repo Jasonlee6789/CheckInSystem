@@ -5,6 +5,9 @@ namespace edx_Inheritance
         private string employeeName;
         private double employeeBaseSalary;
         private int employeeId;
+        // Creates integer variable called "employeeCount" and assigns value to 1
+        private static int employeeCount = 1;
+        //This creates the variable "employeeCount" that will be incremented as objects are instantiated.
 
         // Public properties
         public string Name
@@ -76,8 +79,6 @@ namespace edx_Inheritance
         {
             return toString() + " is in the company's system";
         }
-        // Creates integer variable called "employeeCount" and assigns value to 1
-        private static int employeeCount = 1;
-        //This creates the variable "employeeCount" that will be incremented as objects are instantiated.
+
     }
 }

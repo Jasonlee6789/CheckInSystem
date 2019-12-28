@@ -1,0 +1,6 @@
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\bin\Debug\edx-Inheritance.exe.config
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\bin\Debug\edx-Inheritance.exe
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\bin\Debug\edx-Inheritance.pdb
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\obj\Debug\edx-Inheritance.csprojAssemblyReference.cache
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\obj\Debug\edx-Inheritance.exe
+D:\Github\CheckInSystem\CheckInSystem\edx-Inheritance\obj\Debug\edx-Inheritance.pdb
